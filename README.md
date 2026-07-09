@@ -1,7 +1,6 @@
 # Vehicle Rental Management System
 
-A desktop vehicle rental management application built with **Java** and **JavaFX**,
-developed as a project for CS313 (Advanced Programming Language).
+A desktop vehicle rental management application built with **Java** and **JavaFX**, developed as a project for CS313 (Advanced Programming Language).
 
 ## Project Description
 
@@ -21,6 +20,32 @@ The system is designed to facilitate the complete vehicle rental workflow, from 
 - Rental booking, tracking, and returns processing
 - Automatic cost calculation
 - MySQL-backed persistence layer
+
+## Screenshots
+
+**Login**
+
+![Login screen](screenshots/login.png)
+
+**Admin — Vehicle Management**
+
+![Admin vehicle management](screenshots/admin-vehicle-management.png)
+
+**Admin — Customer Management**
+
+![Admin customer management](screenshots/admin-customer-management.png)
+
+**Employee Dashboard**
+
+![Employee dashboard](screenshots/employee-dashboard.png)
+
+**Customer Dashboard**
+
+![Customer dashboard](screenshots/customer-dashboard.png)
+
+**Customer — Book a Vehicle**
+
+![Customer booking a vehicle](screenshots/customer-book-vehicle.png)
 
 ## Tech Stack
 
@@ -73,7 +98,13 @@ Vehicle_rental_management_system_Project/
 
 ## Team
 
-Rahaf Yahaya Al-Malki, Aryam Hadi Al-Faifi ,Hala Abdullatif Al-Ghamdi, Raseel Mohammed Al-Shahrani, Noura Abdulaziz Al-Jalham
+| Name | Student Number |
+|---|---|
+| Aryam Hadi Al-Faifi | 445008731 |
+| Hala Abdullatif Al-Ghamdi | 445008709 |
+| Rahaf Yahaya Al-Malki | 445008754 |
+| Raseel Mohammed Al-Shahrani | 445008786 |
+| Noura Abdulaziz Al-Jalham | 444008894 |
 
 ## Course
 
