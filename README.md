@@ -100,11 +100,7 @@ Vehicle_rental_management_system_Project/
 
 | Name | Student Number |
 |---|---|
-| Aryam Hadi Al-Faifi | 445008731 |
-| Hala Abdullatif Al-Ghamdi | 445008709 |
-| Rahaf Yahaya Al-Malki | 445008754 |
-| Raseel Mohammed Al-Shahrani | 445008786 |
-| Noura Abdulaziz Al-Jalham | 444008894 |
+Rahaf Yahaya Al-Malki, Aryam Hadi Al-Faifi, Hala Abdullatif Al-Ghamdi, Raseel Mohammed Al-Shahrani, Noura Abdulaziz Al-Jalham
 
 ## Course
 
