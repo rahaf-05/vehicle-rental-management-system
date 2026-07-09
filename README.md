@@ -98,7 +98,7 @@ Vehicle_rental_management_system_Project/
 
 ## Team
 
-Rahaf Yahaya Al-Malki, Aryam Hadi Al-Faifi, Hala Abdullatif Al-Ghamdi, Raseel Mohammed Al-Shahrani, Noura Abdulaziz Al-Jalham
+Rahaf Al-Malki, Aryam Al-Faifi, Hala Al-Ghamdi, Raseel Al-Shahrani, Noura Al-Jalham
 
 ## Course
 
