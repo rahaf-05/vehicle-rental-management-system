@@ -102,4 +102,4 @@ Rahaf Yahaya Al-Malki, Aryam Hadi Al-Faifi, Hala Abdullatif Al-Ghamdi, Raseel Mo
 
 ## Course
 
-CS313 — Advanced Programming Language, Section 5C8
+CS313 — Advanced Programming Language
