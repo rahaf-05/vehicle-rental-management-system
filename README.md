@@ -1,6 +1,6 @@
 # Vehicle Rental Management System
 
-A desktop vehicle rental management application built with **Java** and **JavaFX**, developed as a project for CS313 (Advanced Programming Language).
+A desktop vehicle rental management application built with **Java** , **JavaFX** and **SQL**.
 
 ## Project Description
 
